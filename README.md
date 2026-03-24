@@ -47,7 +47,8 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+# OUTPUT:
+![e81](https://github.com/user-attachments/assets/8c62a5c7-06a7-468e-a639-6a6c18f6553e)
 
  
 
